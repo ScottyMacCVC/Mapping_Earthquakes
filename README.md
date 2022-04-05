@@ -8,10 +8,10 @@ Our team would like to view the magnitudes of earthquakes in a given time period
 ## Reviewing the Map:
 
 - Deliverable 1: Add Tectonic Plate Data
-![SearchInfo](https://github.com/ScottyMacCVC/UFOs/blob/main/static/images/Search%20%26%20Info.JPG)
+![Tectonic Plate Data](https://github.com/ScottyMacCVC/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Deliverable%201%20-%20Tectonic%20Plate%20Data.JPG)
 
 - Deliverable 2: Add Major Earthquake Data
-![DateSearch](https://github.com/ScottyMacCVC/UFOs/blob/main/static/images/Date%20Search.JPG)
+![Deliverable 2 -Earthquake Data](https://github.com/ScottyMacCVC/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Deliverable%202%20-Earthquake%20Data.JPG)
 
 - Deliverable 3: Add an Additional Map
-![SearchbyCity](https://github.com/ScottyMacCVC/UFOs/blob/main/static/images/Search%20by%20City.JPG)
+![Deliverable 3 - Dark Map](https://github.com/ScottyMacCVC/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Deliverable%203%20-%20Dark%20Map.JPG)
